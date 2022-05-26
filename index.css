@@ -1,0 +1,60 @@
+body {
+  font-family: sans-serif;
+  margin: 0px;
+}
+
+#sale-header {
+  background-color: #ff1700;
+  color: white;
+  line-height: 50px;
+  text-align: center;
+}
+h4 {
+  margin-top: 0px;
+}
+.menu {
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 22px;
+  font-weight: bold;
+  font-size: 1rem;
+}
+#brand-name {
+  font-size: 2.5rem;
+  margin-right: 190px;
+}
+.btn {
+  -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 20px;
+  background: #ffffff;
+  padding: 10px 20px 10px 20px;
+  border: solid #000000 3px;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #d93f3f;
+  text-decoration: none;
+}
+#learn {
+  margin-right: 300px;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+h1 {
+  font-size: 7rem;
+}
